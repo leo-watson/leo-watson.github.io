@@ -8,4 +8,4 @@ date: 2025-05-25
 location: "Saskatoon, Saskatchewan"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+On-Chain Optimal Aggregation of Uniswap V3 Clones
