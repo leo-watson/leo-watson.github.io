@@ -1,5 +1,5 @@
 ---
-title: "Statistical Society of Canada Annual Meeting (forthcoming)"
+title: "Statistical Society of Canada Annual Meeting"
 collection: talks
 type: "Talk"
 permalink: /talks/optimal-aggregation
