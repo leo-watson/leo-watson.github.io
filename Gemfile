@@ -11,7 +11,7 @@ end
 
 gem 'github-pages'
 
-# Ruby 3.4+/4.0: csv is no longer a default gem
- gem "csv"
-
+# Ruby 3.4+/4.0: some standard libraries are no longer default gems
+gem "csv"
+gem "bigdecimal"
 

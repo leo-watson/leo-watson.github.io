@@ -12,11 +12,12 @@ I am a second-year Ph.D. student in Statistics at the University of Toronto. I a
 
 My research interests lie in uncertainty quantification, especially distribution-free methods like conformal prediction.
 
-During undergrad, I was not entirely sure what I wanted to specialize in -- let alone what to do post graduation. I bounced around programs in physics, maths, and economics, and did a quite random set of summer projects:  trading intern on the markets floor at [a bank](https://www.citi.com/), quantum physics related university work through the [Ministry of Education](https://www.mext.go.jp/en/), and some applied ML projects in econometrics at UofT. 
+During undergrad, I was not entirely sure what I wanted to specialize in -- let alone what to do post graduation. I bounced around programs in physics, maths, and economics, and did a quite random set of summer projects:  trading intern on the markets floor at [an investment bank](https://www.citi.com/), quantum physics related university work through the [Ministry of Education](https://www.mext.go.jp/en/), and some applied ML projects in econometrics at UofT. 
 
 Towards the end of undergrad, I converged to statistics and am currently enjoying the Ph.D. greatly! 
 
 ## News
+- 2026.07.01 Presenting *Conformalized Model Selection* poster at [ISBA 2026](https://isba2026.github.io/) in Nagoya which combines Bayesian scoring and (Frequentist) conformal prediction for diagnosing goodness of fit. Hope to meet cool people there.
 - 2025.11: Passed Oral Comprehensive Exam. Thanks to [Ricardo](https://ricardobaptista.com/) and [Murat](https://www.cs.toronto.edu/~erdogdu/) for serving on the committee! Time to focus exclusively on research...
 - 2025.09: Thanks to those who attended [Fast and Curious 2: MCMC in Action](https://raducraiu.com/the-fast-and-curious-ii-mcmc-in-action/). Was great fun being on the organizing committee.
 - 2025.09: Received [CGS-D Award](https://nserc-crsng.canada.ca/en/funding-opportunity/canada-graduate-research-scholarship-doctoral-program). Thank you to taxpayers!

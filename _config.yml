@@ -22,7 +22,7 @@ repository               : # "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "leo_color.jpg"
+  avatar           : "leo_avatar_full.png"
   name             : "Leo Murao Watson"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. Student in DoSS"
